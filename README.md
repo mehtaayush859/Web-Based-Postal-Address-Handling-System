@@ -1,3 +1,21 @@
+The system serves as an address management platform that allows users to validate and search address records through a modular, scalable backend.
+
+Key Contributions
+Developed and implemented modular backend services for address validation and search workflows.
+
+Integrated RESTful APIs and database interactions to ensure accurate and formatted address responses.
+
+Containerized backend services with Docker and orchestrated deployments using Kubernetes for scalable, isolated testing.
+
+Collaborated in a 4-member Agile team following sprint-based coordination, peer code reviews, and system design discussions.
+
+Technologies Used
+Backend: Java, Spring Boot
+Database: SQL/PostgreSQL
+Deployment: Docker, Kubernetes
+Version Control: Git, GitHub
+Frontend: Basic form-based UI for request handling
+
 # Prerequisites
 
 Make sure you have the following software installed on your development machine:
